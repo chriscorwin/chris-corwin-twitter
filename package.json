@@ -1,0 +1,26 @@
+{
+  "name": "chris-corwin-twitter",
+  "version": "1.0.0",
+  "description": "A simple app to automagickally update my Twitter profile from iOS reminders app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriscorwin/chris-corwin-twitter.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Chris Corwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriscorwin/chris-corwin-twitter/issues"
+  },
+  "homepage": "https://github.com/chriscorwin/chris-corwin-twitter#readme",
+  "dependencies": {
+    "node-twitterbot": "^0.2.2",
+    "twit": "^2.2.5"
+  }
+}
