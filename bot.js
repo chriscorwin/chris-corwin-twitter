@@ -15,6 +15,7 @@ var phraseArray = [ "hey twitter",
                     "it me",
                     "same",
                     "#dogpants go on 4 legs!!",
+                    "#heckyesfishjenga",
                     "#thedress is blue and black" ];
 function chooseRandom(myArray) {
   return myArray[Math.floor(Math.random() * myArray.length)];
